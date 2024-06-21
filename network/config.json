@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "",
-    "intro": "This network illustrates Twitch broadcasting network, characterized by common viewers shared bewteen streamers before the policy implementation (Oct 18, 2022). \n\nNodes are color-coded to represent different groups: red denotes the control group, blue represents the unbanned (treated) group, and green denotes the banned (treated) group.\n\n",
+    "intro": "This network illustrates Twitch broadcasting network, characterized by common viewers shared bewteen streamers, before Twitch’s ban of production of gambling sites lacking U.S. license on Oct 18, 2022. \n\n\nNodes are color-coded to represent different groups: red denotes the control group, blue represents the unbanned (treated) group, and green denotes the banned (treated) group. An edge is illustrated here if two streamers have at least 1000 viewers in common. \n\n\n",
     "title": "Twitch-Gambling"
   },
   "legend": {
