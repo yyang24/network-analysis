@@ -8,8 +8,8 @@
     "text": "Jasmine"
   },
   "text": {
-    "more": "This network depicts number of common viewers before the policy implementation on Twitch Streamers. \nFor nodes, 0 means control group, 1 means unbanned (treated) group, and 2 means banned (treated) group. ",
-    "intro": "This network depicts number of common viewers before the policy implementation on Twitch Streamers. ",
+    "more": "",
+    "intro": "This network depicts number of common viewers before the policy implementation on Twitch Streamers. This network depicts number of common viewers before the policy implementation on Twitch Streamers. \nFor nodes, pink denotes control group, blue denotes unbanned (treated) group, and green means banned (treated) group. ",
     "title": "Twitch-Gambling"
   },
   "legend": {
